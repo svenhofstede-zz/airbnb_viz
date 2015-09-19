@@ -1,0 +1,17 @@
+{
+    "contents" : "#attractions = read.csv(\"attraction_locations.csv\")\n\n\nfor (i in 1:nrow(air_merged)){\n  distance <- 999\n  closest_attraction <- NULL\n  count_1km_attractions <- 0\n  lat_air <- air_merged[i,\"Latitude\"]\n  long_air <- air_merged[i,\"Longitude\"]\n  \n  current <- air_merged[i,\"ID\"]\n  \n  for(j in 1:nrow(attractions)){\n    dist <- earth.dist(long_air,lat_air,attractions[j,\"longitude\"],attractions[j,\"latitude\"])\n    \n    if(dist < 2){\n      count_1km_attractions <- count_1km_attractions + 1\n    }\n    \n    if(dist < distance){\n      distance <- dist\n      closest_attraction <- attractions[j,\"attraction\"]\n    }\n  }\n  print(count_1km_attractions)\n  print(i)\n  flush.console()\n  air_merged[i,\"distAttractions\"] <- distance\n  air_merged[i,\"closestAttraction\"] <- closest_attraction\n  air_merged[i,\"count_1km_attractions\"] <- count_1km_attractions\n  \n}\n\nprint(num_6)\nwrite.csv(air_merged, file=\"listings_final.csv\")",
+    "created" : 1442387749489.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2333018494",
+    "id" : "6E0E9117",
+    "lastKnownWriteTime" : 1442390721,
+    "path" : "H:/Projects/vizwiz/scripts/addDistanceToTouristAttractions.R",
+    "project_path" : "scripts/addDistanceToTouristAttractions.R",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

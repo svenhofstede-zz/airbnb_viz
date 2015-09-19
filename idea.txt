@@ -1,0 +1,16 @@
+Does it pay to be near a tourist attraction?
+Best Price/review ratio
+Does it pay to be open all year round? 
+Does the metro/subway location affect the price? 
+People with the most listings
+Listing name - text analysis - What words bump up the price
+Close to business area/culture area
+Crime rate
+Real estate prices
+Film locations
+# attractions within 1km
+
+Practicality / Relevance (are the views easy to interpret? Is a question answered?)
+Storytelling (telling a single, coherent story that accurately represents the data)
+Innovative use of Tableau (visualization types, interactivity, and creativity)
+Design (performance, beauty)
