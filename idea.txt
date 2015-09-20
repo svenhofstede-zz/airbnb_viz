@@ -5,10 +5,29 @@ Does the metro/subway location affect the price?
 People with the most listings
 Listing name - text analysis - What words bump up the price
 Close to business area/culture area
-Crime rate
 Real estate prices
 Film locations
 # attractions within 1km
+
+*Standaard
+///Duurste locaties 
+///Algemene stats / metrics
+///Ratings
+///WIFI
+Aantal bedden/price
+
+*Subway 
+Prijs tov subway distance
+
+*Attractions
+Prijs tov Attractions distances
+
+
+*Parking
+
+*Tool to find perfect apartment
+DONE
+
 
 Practicality / Relevance (are the views easy to interpret? Is a question answered?)
 Storytelling (telling a single, coherent story that accurately represents the data)

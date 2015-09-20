@@ -1,0 +1,531 @@
+name,ID,ADDRESS,CITY,zip,Shape,PHONE,TYPE,URL
+Queens Library - Arverne,955,312 Beach 54 Street,Arverne,11692,"(40.59314711500008, -73.78404002699995)",718-634-4784,Free,http://www.queenslibrary.org/
+Cafe Bar,140,3290 36th St,Astoria,11106,"(40.75804505900004, -73.9233935609999)",718-204-5273,Free,http://www.yelp.com/biz/cafe-bar-astoria
+Time Caf̩ Astoria,1251,44-18 Broadway,Astoria,11103,"(40.75695292000006, -73.91530455599991)",,Free,http://www.timecafeny.com/index.php?page=wifi
+Caf̩ Soleil,1258,37-14 Astoria Blvd,Astoria,11103,"(40.76892595700008, -73.91249405499991)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Cafe_Soleil_Queens_NY_32472.aspx
+Plaza Lounge,1277,29-20 30th Avenue,Astoria,11102,"(40.76744166900005, -73.92297906599993)",,Free,http://www.wififreespot.com/ny.html
+Sanford Restaurant,1283,30-13 Broadway,Astoria,11106,"(40.76229642700008, -73.92555450499992)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Sanford_Restaurant_New_York_NY_19754.aspx
+Queens Library - Windsor Park,1004,79-50 Bell Boulevard,Bayside,11364,"(40.734486598000046, -73.75568166999994)",718-468-8300,Free,http://www.queenslibrary.org/
+Barnes & Noble,1070,23-80 Bell Blvd.,Bayside,11360,"(40.78069713300005, -73.77645545299993)",718-224-1083,Free,http://www.barnesandnobleinc.com
+Bagels And Bake,135,40-15 Bell Blvd.,Bayside,11361,"(40.76386998900006, -73.7707956939999)",718-229-6132,Free,http://local.yahoo.com/info-11375980-bagels-and-bake-under-the-green-canopy-bayside
+Bagels & Cakes,1252,42-14 Bell Boulevard,Bayside,11361,"(40.76228327700005, -73.77058988499994)",,Free,http://www.wififreespot.com/ny.html
+Yogurteria,1310,213-35 39th Avenue,Bayside,11361,"(40.76562116400004, -73.77159895499994)",,Free,http://www.wififreespot.com/ny.html
+Queens Library - Bay Terrace,958,18-36 Bell Boulevard,Bayside,11360,"(40.78253153700007, -73.77700881399994)",718-423-7004,Free,http://www.queenslibrary.org/
+Queens Library - Bayside,959,214-20 Northern Boulevard,Bayside,11361,"(40.76012591500006, -73.76836198099994)",718-229-1834,Free,http://www.queenslibrary.org/
+Queens Library - Bellerose,960,250-06 Hillside Avenue,Bellerose,11426,"(40.73540282100004, -73.71726581999991)",718-831-8644,Free,http://www.queenslibrary.org/
+Queens Library - Briarwood,961,85-12 Main Street,Briarwood,11435,"(40.71003489100008, -73.81945311999993)",718-658-1680,Free,http://www.queenslibrary.org/
+Queens Library - Broad Channel,962,16-26 Cross Bay Boulevard,Broad Channel,11693,"(40.60073243800008, -73.82005266099992)",718-318-4943,Free,http://www.queenslibrary.org/
+NYC Public Library - Baychester Branch,1,2049 Asch Loop North,Bronx,10475,"(40.87027917200004, -73.82861632099991)",718-379-6700,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Castel Hill Branch,2,947 Castle Hill Avenue,Bronx,10473,"(40.82661067600009, -73.85018107899992)",718-824-3838,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - City Island Branch,3,320 City Island Avenue,Bronx,10464,"(40.84769385000004, -73.78636716099993)",718-885-1703,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Clason's Point Branch,4,1215 Morrison Avenue,Bronx,10472,"(40.82999431400009, -73.87501990299995)",718-842-1235,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Eastchester Branch,5,1385 East Gun Hill Road,Bronx,10469,"(40.870140491000086, -73.84506443399994)",718-653-3292,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Edenwald Branch,6,1255 East 233rd Street,Bronx,10466,"(40.88889472000005, -73.84083619599994)",718-798-3355,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Francis Martin Branch,8,2150 University Avenue,Bronx,10453,"(40.857437754000046, -73.90927460499995)",718-295-5287,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Hunt's Point Branch,9,877 Southern Boulevard,Bronx,10459,"(40.81868873900004, -73.89413524399993)",718-617-0338,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Jerome Park Branch,10,118 Eames Place,Bronx,10468,"(40.86904119500008, -73.90119231999995)",718-549-5200,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Kingsbridge Branch,11,280 West 231st Street,Bronx,10463,"(40.88032201200008, -73.90798492699992)",718-548-5656,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Pelham Bay Branch,12,3060 Middletown Road,Bronx,10461,"(40.84429395700005, -73.82788812599995)",718-792-6744,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Riverdale Branch,13,5540 Mosholu Avenue,Bronx,10471,"(40.90372441100004, -73.9027722539999)",718-549-1212,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library -Soundview Branch,14,660 Soundview Avenue,Bronx,10473,"(40.818710714000076, -73.86289094799992)",718-589-0880,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Spuyten Duyvil Branch,15,650 W. 235th St.,Bronx,10463,"(40.88627489000004, -73.91467093799992)",718-796-1202,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Throg's Neck Branch,16,3025 Cross Bronx Expressway Extension,Bronx,10465,"(40.82290464000005, -73.81909491699992)",718-792-2612,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Van Cortlandt,17,3874 Sedgwick Avenue,Bronx,10463,"(40.88276095100008, -73.89392111299992)",718-543-5150,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Van Nest Branch,18,2147 Barnes Avenue,Bronx,10462,"(40.85487928800006, -73.86414303999993)",718-829-5864,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Wakefield Branch,19,4100 Lowerre Place,Bronx,10466,"(40.89109825300005, -73.85951905299993)",718-652-4663,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - West Farms Branch,20,2085 Honeywell Avenue,Bronx,10460,"(40.84467596500008, -73.88304497799993)",718-367-5376,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Westchester Square,21,2521 Glebe Avenue,Bronx,10461,"(40.84110633000006, -73.84662106499991)",718-863-0436,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Woodlawn Heights,22,4355 Katonah Avenue,Bronx,10470,"(40.900440124000056, -73.86794216099992)",718-519-9627,Free,http://www.nypl.org/branch/services/wifi.html
+The Bruckner Bar & Grill,23,1 Bruckner Blvd,Bronx,10454,"(40.808280928000045, -73.93044839999993)",718-665-2001,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Bruckner_Bar_and_Grill_New_York_NY_23205.aspx
+Longwood Art Gallery Hostos Community College Campus,24,450 Grand Concourse,Bronx,10451,"(40.81736402300004, -73.92731020999992)",718-518-6728,Free,
+Community Access,789,1363 Franklin Avenue,Bronx,10456,"(40.83325294200006, -73.90114428699991)",,Free,http://auth.nycwireless.net/node_list.php
+Subway,801,2438 Jerome Ave,Bronx,10468,"(40.86213829900004, -73.90121703699992)",,Free,http://auth.nycwireless.net/node_list.php
+Barnes & Noble,1031,290 Baychester Ave,Bronx,10475,"(40.86577293700009, -73.82981821999994)",718-862-3945,Free,http://www.barnesandnobleinc.com
+City Line Diner,1079,4350 Katonah Ave.,Bronx,10470,"(40.900598107000064, -73.86751988299994)",718-231-4952,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_City_Line_Diner_Bronx_NY_24466.aspx
+Good to Go Rest,1339,1894 Eastchester Rd,Bronx,10461,"(40.85147419300006, -73.84351383899991)",,Free,http://www.wififreespot.com/ny.html
+Burger King,1340,103 E 161 Street,Bronx,10451,"(40.82771993000006, -73.92431479599992)",,Free,http://www.wififreespot.com/ny.html
+Corner Scone,911,4279 Webster Avenue,Bronx,10470,"(40.89826937000004, -73.8627191189999)",718-231-7766,Free,http://cornerscone.com/
+NYC Public Library - Allerton Branch,939,2740 Barnes Avenue,Bronx,10467,"(40.86680476100008, -73.86322248499994)",718-881-4240,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Belmont Branch,940,610 E. 186th Street,Bronx,10458,"(40.85434724000004, -73.88788942799994)",718-933-6410,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Bronx Library Center,941,310 East Kingsbridge Road,Bronx,10458,"(40.86300214400006, -73.89455999799992)",718-579-4288,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Grand Concourse Branch,942,155 East 173rd Street,Bronx,10457,"(40.84400224500007, -73.91008714399993)",718-583-6611,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - High Bridge Branch,943,78 West 168th Street,Bronx,10452,"(40.83795924400005, -73.92353960999992)",718-293-7800,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Melrose Branch,944,910 Morris Avenue,Bronx,10451,"(40.82659226100009, -73.91758265199991)",718-588-0110,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Morris Park Branch,945,985 Morris Park Avenue,Bronx,10462,"(40.84806678100006, -73.85697712599995)",718-931-0636,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Morrisania Branch,946,610 East 169th Street,Bronx,10456,"(40.831264056000066, -73.90178897599992)",718-589-9268,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Mosholu Branch,947,285 East 205th Street,Bronx,10467,"(40.87438014600008, -73.87838435099991)",718-882-8239,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Mott Haven Branch,948,321 East 140th Street,Bronx,10454,"(40.81160446500007, -73.92438264599991)",718-665-4878,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Parkchester Branch,949,1985 Westchester Avenue,Bronx,10462,"(40.83373663100008, -73.85835521699994)",718-829-7830,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Sedgwich Branch,950,1701 Martin Luther King Jr Blvd,Bronx,10453,"(40.84949441400005, -73.91757752599995)",718-731-2074,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Tremont Branch,951,1866 Washington Avenue,Bronx,10457,"(40.846042657000055, -73.89834025499994)",718-299-5177,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Woodstock Branch,952,761 East 160th Street,Bronx,10456,"(40.82064189700009, -73.90462885999995)",718-665-6255,Free,http://www.nypl.org/branch/services/wifi.html
+Community Access - Davidson Avenue,1197,1750 Davidson Avenue,Bronx,10453,"(40.848180065000065, -73.91285627699995)",,Free,https://auth.nycwireless.net/hotspots_map.php
+Coomunity Access - Rev James A. Polite Avenue,1200,1022 Rev James  A Polite Avenue,Bronx,10459,"(40.82407458800009, -73.89866363499993)",,Free,https://auth.nycwireless.net/hotspots_map.php
+Community Access -Tinton Avenue,1201,1189 Tinton Avenue,Bronx,10456,"(40.82897582700008, -73.90069926399991)",,Free,https://auth.nycwireless.net/hotspots_map.php
+Panera Bread,1206,340 Baychester Avenue,Bronx,10475,"(40.86769902600008, -73.82863627699993)",,Free,http://www.panerabread.com/cafes/results.php?NAV=2&state=NY&zip=&city=&address=&radius=10&action=searchwifi
+"Joyce Kilmer Park, North End around playground",1360,E 164 St Bet Grand Concourse to Walton Av,Bronx,10451,"(40.829657679000036, -73.92194475899993)",,Free,http://www.nycgovparks.org/parks/X028/
+Brooklyn Public Library - Arlington,25,203 Arlington Ave.,Brooklyn,11207,"(40.68068718200004, -73.88724084699993)",718-277-6105,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Bay Ridge,26,7223 Ridge Blvd.,Brooklyn,11209,"(40.633627224000065, -74.02953989199995)",718-748-5709,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Bedford,27,496 Franklin Avenue,Brooklyn,11238,"(40.68182101300005, -73.95616470699991)",718-623-0012,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Borough Park,29,1265 43rd St.,Brooklyn,11219,"(40.63888676000005, -73.98900679299993)",718-437-4085,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Brighton Beach,30,16 Brighton First Rd.,Brooklyn,11235,"(40.57610901500004, -73.96677419199995)",718-946-2917,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Brooklyn Heights,31,280 Cadman Plaza West,Brooklyn,11201,"(40.695670917000086, -73.99138113899994)",718-623-7100,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Brower Park,32,725 St. Marks Ave.,Brooklyn,11216,"(40.67537039200005, -73.94856574799991)",718-773-7208,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Brownsville,33,61 Glenmore Ave.,Brooklyn,11212,"(40.67152760300007, -73.90860463899992)",718-498-9721,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Bushwick,34,340 Bushwick Ave.,Brooklyn,11206,"(40.704559422000045, -73.93961664599993)",718-602-1348,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Canarsie,36,1580 Rockaway Pkwy.,Brooklyn,11236,"(40.64220850000004, -73.89952476799994)",718-257-6547,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Carroll Gardens,37,396 Clinton St.,Brooklyn,11231,"(40.68321545500004, -73.9980205569999)",718-596-6972,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Central Library,39,Grand Army Plaza,Brooklyn,11238,"(40.67224293600009, -73.9681106029999)",718-230-2100,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Clarendon,40,2035 Nostrand Ave.,Brooklyn,11210,"(40.63574080900008, -73.94761988599993)",718-421-1159,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Clinton Hill,41,380 Washington Ave.,Brooklyn,11238,"(40.68737976600005, -73.9660300459999)",718-398-8713,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Coney Island,42,1901 Mermaid Ave.,Brooklyn,11224,"(40.57676898700004, -73.98609757899993)",718-265-3220,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Cortelyou,44,1305 Cortelyou Rd.,Brooklyn,11226,"(40.64080360000008, -73.9659636749999)",718-693-7763,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Crown Heights Branch,45,560 New York Ave.,Brooklyn,11225,"(40.66120165600006, -73.94813333699994)",718-773-1180,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Cypress Hills,46,1197 Sutter Ave.,Brooklyn,11208,"(40.67270539400005, -73.87403488199993)",718-277-6004,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - DeKalb,47,790 Bushwick Ave.,Brooklyn,11221,"(40.69481730100006, -73.92839945399993)",718-455-3898,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Dyker,48,8202 13th Ave.,Brooklyn,11228,"(40.616308022000055, -74.01198722399994)",718-748-6261,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - East Flatbush,49,9612 Church Ave.,Brooklyn,11212,"(40.655711548000056, -73.91493701499991)",718-922-0927,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Eastern Parkway,50,1044 Eastern Pkwy.,Brooklyn,11213,"(40.66846512700005, -73.93364020799993)",718-953-4225,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Flatbush,53,22 Linden Blvd.,Brooklyn,11226,"(40.65192292000006, -73.95823854699995)",718-856-0813,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Flatlands,54,2065 Flatbush Ave.,Brooklyn,11234,"(40.61976964200005, -73.9332131399999)",718-253-4409,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Fort Hamilton,55,9424 Fourth Ave.,Brooklyn,11209,"(40.616372987000034, -74.03136924199993)",718-748-6919,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Gerritsen Beach Branch,56,2808 Gerritsen Ave.,Brooklyn,11229,"(40.591357996000056, -73.92396644699994)",718-368-1435,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Gravesend,57,303 Ave. X,Brooklyn,11223,"(40.59054527300009, -73.97180776599993)",718-382-5792,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Greenpoint,58,107 Norman Ave.,Brooklyn,11222,"(40.72605069000008, -73.95069134899995)",718-349-8504,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Highlawn,59,1664 W. 13th St.,Brooklyn,11223,"(40.605690957000036, -73.98623201099991)",718-234-7208,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Homecrest,60,2525 Coney Island Ave.,Brooklyn,11223,"(40.595238330000086, -73.96060011299994)",718-382-5924,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Jamaica Bay,61,9727 Seaview Ave.,Brooklyn,11236,"(40.63447528000006, -73.8893041369999)",718-241-3571,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Bridge Park,783,92 Plymouth Street,Brooklyn,11201,"(40.70437995300006, -73.99007439199994)",,Free,http://auth.nycwireless.net/hotspots_map.php
+Community Access,790,910 DeKalb Avenue,Brooklyn,11221,"(40.69250426900004, -73.9393607149999)",,Free,http://auth.nycwireless.net/node_list.php
+DUMBO Wireless,792,155 Water St,Brooklyn,11201,"(40.703306532000056, -73.98779155499994)",718-210-3650,Free,http://dumbonyc.com/2008/05/14/155water-greendesk/
+Brooklyn Public Library - Kensington,62,410 Ditmas Ave.,Brooklyn,11218,"(40.63569503800005, -73.9745954089999)",718-435-9431,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Kings Bay,63,3650 Nostrand Ave.,Brooklyn,11229,"(40.594862198000044, -73.94112374899993)",718-368-1709,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Kings Highway,64,2115 Ocean Ave.,Brooklyn,11229,"(40.61025779000005, -73.9531071159999)",718-375-3037,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Leonard,65,81 Devoe St.,Brooklyn,11211,"(40.713645909000036, -73.94793741899991)",718-486-3365,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Macon,66,361 Lewis Ave.,Brooklyn,11233,"(40.68300486900006, -73.93480474899991)",718-573-5606,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Mapleton,67,1702 60th St,Brooklyn,11204,"(40.62306584000004, -73.98944527399993)",718-256-2117,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Marcy,68,617 DeKalb Ave.,Brooklyn,11216,"(40.691623373000084, -73.95128295099994)",718-935-0032,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - McKinley Park,69,6802 Fort Hamilton Pkwy,Brooklyn,11219,"(40.62921404100007, -74.01187065699992)",718-748-8001,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Midwood,70,975 East 16th St,Brooklyn,11230,"(40.62589484400007, -73.96031543499993)",718-252-0967,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Mill Basin,71,2385 Ralph Ave,Brooklyn,11234,"(40.61986887100005, -73.91699627999992)",718-241-3973,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - New Lots,72,665 New Lots Ave.,Brooklyn,11207,"(40.665158820000045, -73.88607037899993)",718-649-0311,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - New Utrecht,73,1743 86th St.,Brooklyn,11214,"(40.608011084000054, -74.00337819099991)",718-236-4086,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Pacific,74,25 Fourth Ave.,Brooklyn,11217,"(40.68346050100007, -73.97853972199994)",718-638-1531,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Paerdegat,75,850 E. 59th St.,Brooklyn,11234,"(40.63263701200009, -73.91998514599993)",718-241-3994,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Park Slope,76,431 6th Ave.,Brooklyn,11215,"(40.66821683100005, -73.98342903999992)",718-832-1853,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Red Hook,77,7 Wolcott St.,Brooklyn,11231,"(40.67525516400008, -74.0103502799999)",718-935-0203,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Rugby,78,1000 Utica Ave.,Brooklyn,11203,"(40.648637643000086, -73.93037337499993)",718-566-0054,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Ryder,79,5902- 23rd Ave.,Brooklyn,11204,"(40.61591638900006, -73.97604009899993)",718-331-2962,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Saratoga,80,"Thomas S. Boyland St. at ""Macon St.""",Brooklyn,11233,"(40.68480634100007, -73.9151378709999)",718-573-5224,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Sheepshead Bay,81,2636 E.14th St.,Brooklyn,11235,"(40.586999295000055, -73.95542766999995)",718-368-1815,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Spring Creek Branch,82,12143 Flatlands Ave.,Brooklyn,11207,"(40.65326552100004, -73.8859104949999)",718-257-6571,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Stone Avenue,83,581 Mother Gaston Boulevard,Brooklyn,11212,"(40.66446803100007, -73.9052116339999)",718-485-8347,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Sunset Park,84,5108 4th Avenue,Brooklyn,11220,"(40.645913128000075, -74.01362854599995)",718-567-2806,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Ulmer Park,85,2602 Bath Ave,Brooklyn,11214,"(40.592653436000035, -73.98868314299995)",718-265-3443,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Walt Whitman,86,93 Saint Edwards St.,Brooklyn,11205,"(40.694491579000044, -73.97773199799991)",718-935-0244,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Washington Irving,87,360 Irving Ave.,Brooklyn,11237,"(40.697482241000046, -73.91221143899992)",718-628-8378,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Williamsburgh,88,240 Division Ave.,Brooklyn,11211,"(40.70693067600007, -73.95755485799992)",718-302-3485,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Public Library - Windsor Terrace,89,160 E. 5th St.,Brooklyn,11218,"(40.648716757000045, -73.97675626499995)",718-686-9707,Free,http://www.brooklynpubliclibrary.org/
+Brooklyn Museum of Art,90,200 Eastern Parkway,Brooklyn,11238,"(40.670926835000046, -73.96355466199992)",,Free,http://www.brooklynmuseum.org/visit/wireless.php
+Bristens Cafe,91,525 DeKalb Avenue,Brooklyn,11205,"(40.690985700000056, -73.95589184199991)",646-393-9422,Free,http://www.yelp.com/biz/bristens-eatery-brooklyn
+Cafe Sutra,92,639A 5th Ave,Brooklyn,11215,"(40.662813250000056, -73.99160885999993)",718-499-0279,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Cafe_Sutra_New_York_NY_5519.aspx
+MishMash,93,1103 Kings Highway,Brooklyn,11229,"(40.60766711500008, -73.9616191959999)",718-375-5100,Free,http://www.mishmashgourmet.com
+Naidre's,94,384 Seventh Avenue,Brooklyn,11215,"(40.66543357200004, -73.9830620649999)",718-965-7585,Free,http://www.naidres.com/
+Polytechnic University Bern Dibner Library of Science & Technology,95,Five Metrotech Center,Brooklyn,11201,"(40.69462489400007, -73.9856263719999)",718-260-3600,Free,http://www.poly.edu/research/library
+St. Francis College McGarry Library,96,180 Remsen Street,Brooklyn,11201,"(40.69306892800006, -73.99210990299991)",718-489-5201,Free,http://library.stfranciscollege.edu/
+Kitty Kiernans Bar,97,9715 third avenue,Brooklyn,11209,"(40.61525506800007, -74.03413135599993)",718-921-0217,Free,http://www.kittykiernans.com/
+Atlas Caf̩,98,116 Havemeyer St.,Brooklyn,11211,"(40.71299634600007, -73.95686202899992)",718-782-7470,Free,http://www.yelp.com/biz/atlas-cafe-brooklyn
+Bread Stuy,99,401 Lewis Ave,Brooklyn,11233,"(40.681547280000075, -73.93460066199992)",718-771-0633,Free,http://breadstuy.com/main.html
+Healthy Nibbles,101,305 Flatbush Ave,Brooklyn,11217,"(40.678743876000055, -73.97326668199992)",718-636-5835,Free,http://hotspotr.com/spot/1456
+Postmark Cafe,102,326 6th street,Brooklyn,11215,"(40.67104147200007, -73.98539300099992)",718-768-2613,Free,http://www.yelp.com/biz/postmark-cafe-brooklyn
+Tillies,103,248 DeKalb Avenue,Brooklyn,11205,"(40.68925260900005, -73.9692635589999)",718-783-8691,Free,http://tilliesofbrooklyn.com/
+Brooklyn Lyceum coffee shop,104,225 4th Ave,Brooklyn,11215,"(40.676802431000056, -73.98303393999993)",718 857-4816,Free,http://www.superpages.com/cities/mtg/wifi-1258829/
+Gorilla Coffee,105,97 Fifth Ave,Brooklyn,11217,"(40.67970554900006, -73.97800012699992)",718-230-3244,Free,http://hotspotr.com/spot
+Heights Coffee,106,335 Flatbush Ave,Brooklyn,11217,"(40.67778304700005, -73.97259288499993)",718-638-1936,Free,http://www.heightscoffee.com/
+Outpost Lounge,107,1014 Fulton St.,Brooklyn,11238,"(40.681896616000074, -73.96028210899993)",718-636-1260,Free,http://www.outaboutbrooklyn.com/outpost-lounge/
+Tea Lounge,108,837 Union Street,Brooklyn,11215,"(40.67494846200009, -73.97603331199991)",718-768-4966,Free,http://www.yelp.com/biz/tea-lounge-brooklyn
+Prospect Perk Cafe,109,183 Sterling Pl,Brooklyn,11238,"(40.676588862000074, -73.97173534099994)",718-783-7375,Free,http://www.yelp.com/biz/prospect-perk-cafe-brooklyn
+Mama B's,111,351 Graham Avenue,Brooklyn,11211,"(40.714942664000034, -73.94468265499995)",718-599-8859,Free,http://newyork.timeout.com/restaurants/williamsburg/2644/mama-bs-cafe-and-juice-bar
+Supercore,113,305 Bedford Avenue,Brooklyn,11211,"(40.713453704000074, -73.9617494609999)",718-302-1629,Free,http://www.yelp.com/biz/supercore-brooklyn
+The Greenpoint Coffee House,114,195 Franklin Street,Brooklyn,11222,"(40.73351948100009, -73.95843277299991)",718-349-6635,Free,http://www.yelp.com/biz/greenpoint-coffee-house-brooklyn-2
+The Archive,116,49 Bogart St,Brooklyn,11206,"(40.70527521200006, -73.93355667799995)",718-381-1944,Free,http://www.yelp.com/biz/the-archive-cafe-brooklyn
+Lucky Cat,117,245 Grand Street,Brooklyn,11211,"(40.71368872100004, -73.95875896399991)",718-782-0437,Free,http://www.yelp.com/biz/the-lucky-cat-brooklyn
+Southside Caffe,120,229 S 4th Street,Brooklyn,11211,"(40.71059818200007, -73.9589340149999)",718-388-4642,Free,http://www.blockmagazine.com/block_stock_barrel.php?title=lstronggcaught_in_the_wireless_webl_stro&more=1&c=1&tb=1&pb=1
+Tavern on Nostrand,1214,813 Nostrand Avenue,Brooklyn,11225,"(40.66871938400004, -73.95033637699993)",,Free,http://www.wififreespot.com/ny.html
+Tea Lounge,1224,254 Court Street,Brooklyn,11231,"(40.685304905000066, -73.99478634399992)",,Free,http://www.wififreespot.com/ny.html
+Coffee Den,1254,144 Union Street,Brooklyn,11231,"(40.68383485900006, -74.00186003399995)",,Free,http://www.wififreespot.com/ny.html
+Crest Caf̩,1255,463 Union Avenue,Brooklyn,11211,"(40.71432482800009, -73.95167758299993)",,Free,http://www.wififreespot.com/ny.html
+Lindenwood diner,1260,2870 Linden Boulevard,Brooklyn,11208,"(40.66979990500005, -73.85748230799993)",,Free,http://www.lindenwooddiner.com/reviews.html
+Saje Caf̩,1261,710 Franklin Avenue,Brooklyn,11238,"(40.67448955200007, -73.95677135599993)",,Free,http://www.wififreespot.com/ny.html
+The Mark Bar,1262,1025 Manhattan Avenue,Brooklyn,11222,"(40.733968366000056, -73.95513064499994)",,Free,http://www.wififreespot.com/ny.html
+Gimme Coffee,1269,495 Lorimer Street,Brooklyn,11211,"(40.711691647000066, -73.94924404699992)",,Free,http://www.wififreespot.com/ny.html
+Grille de Paris Restaurant,1270,904 Kings Hwy,Brooklyn,11223,"(40.60658591200007, -73.9634749249999)",,Free,http://www.wififreespot.com/ny.html
+Kdog & dunebuggy Coffee,1272,43 Lincoln Road,Brooklyn,11225,"(40.66081094100008, -73.96134712899993)",,Free,http://www.wififreespot.com/ny.html
+Le Gamin,1273,556 Vanderbilt Avenue,Brooklyn,11238,"(40.680016796000075, -73.96828472699991)",,Free,http://www.wififreespot.com/ny.html
+Business Coffeshop,1285,623 Grand Street,Brooklyn,11211,"(40.71153061700005, -73.94713310399993)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Business_Brooklyn_NY_32212.aspx
+Potion Caf̩,1286,248 McKibbin Street,Brooklyn,11206,"(40.705521944000054, -73.93709853199994)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Potion_Cafe_New_York_NY_5870.aspx
+Smooch,1287,264 Carlton Avenue,Brooklyn,11205,"(40.689798316000065, -73.9723430279999)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Smooch_New_York_NY_6738.aspx
+Buffalo Wild Wings Grill & Bar,1288,139 Flatbush Avenue,Brooklyn,11217,"(40.684290230000045, -73.97710532199994)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Buffalo_Wild_Wings_Grill_and_Bar_Brooklyn_NY_329.aspx
+Goodbye Blue Monday,1289,1087 Broadway,Brooklyn,11221,"(40.69457332400009, -73.93050744199991)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Goodbye_Blue_Monday_New_York_NY_19745.aspx
+Joyce Bakeshop,1290,646 Vanderbilt Avenue,Brooklyn,11238,"(40.67717928500008, -73.96939953899994)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Joyce_Bakeshop_Brooklyn_NY_24637.aspx
+Solomon's Porch,1291,307 Stuyvesant Avenue,Brooklyn,11233,"(40.68399249200007, -73.93198597999992)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Solomons_Porch_New_York_NY_6742.aspx
+CDSC Clinton Hill,1292,352 Classon Avenue,Brooklyn,11238,"(40.68846400500007, -73.96021029299993)",,Free,https://auth.nycwireless.net/hotspots_map.php
+Co Labs,1293,247  Stuyvesant Avenue,Brooklyn,11221,"(40.686290633000056, -73.93247164899992)",,Free,https://auth.nycwireless.net/hotspots_map.php
+Barnes & Noble,1326,222 Clinton Avenue,Brooklyn,11205,"(40.69133630600004, -73.96899430799994)",,Free,http://www.barnesandnobleinc.com
+Naidre's,895,502 Henry Street,Brooklyn,11231,"(40.684092226000075, -73.9996477059999)",718-596-3400,Free,http://www.naidres.com/
+Amazon Caf̩,897,227 Smith St,Brooklyn,11231,"(40.683936104000054, -73.99210308699992)",718-852-5948,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Amazon_Cafe_New_York_NY_5572.aspx
+Barnes & Noble,915,106 Court Street,Brooklyn,11201,"(40.69071597900006, -73.99218548599993)",,Free,http://www.barnesandnobleinc.com
+Barnes & Noble,916,267 7th Avenue,Brooklyn,11215,"(40.668876827000076, -73.97953352999991)",,Free,http://www.barnesandnobleinc.com
+Queens Library - Cambria Heights,963,218-13 Linden Boulevard,Cambria Heights,11411,"(40.69570922400004, -73.7411667959999)",718-528-3535,Free,http://www.queenslibrary.org/
+Queens Library - Poppenhusen,989,121-23 14 Avenue,College Point,11356,"(40.78624946800005, -73.84601327899992)",718-359-1102,Free,http://www.queenslibrary.org/
+Queens Library - Corona,124,38-23 104 Street,Corona,11368,"(40.75089541400007, -73.8619766349999)",718-426-2844,Free,http://www.queenslibrary.org/
+Queens Library - Langston Hughes,128,100-01 Northern Boulevard,Corona,11368,"(40.75771242500008, -73.8681998639999)",718-651-1100,Free,http://www.queenslibrary.org/
+Astroval Travel,142,103-16 Roosevelt Ave,Corona,11368,"(40.749410615000045, -73.86206993999991)",718-446-3912,Free,http://v4.jiwire.com/wi-fi-wireless-hotspot-Corona-New-York-NY-US-Astroval-Travel-1086848.htm
+Queens Library - Lefrak City,979,98-30 57 Avenue,Corona,11368,"(40.73744514300006, -73.86166525699991)",718-592-7677,Free,http://www.queenslibrary.org/
+Queens Library - East Elmhurst,126,95-06 Astoria Boulevard,East Elmhurst,11369,"(40.762423262000084, -73.8738652049999)",718-424-2619,Free,http://www.queenslibrary.org/
+Pop Diner,1276,86-02 Queens Boulevard,Elmhurst,11373,"(40.73663409200009, -73.87749359599991)",,Free,http://www.popdiner.com/
+la Fusta Restaurant,1282,80-32 Baxter Avenue,Elmhurst,11373,"(40.744694275000086, -73.88431611599992)",,Free,http://www.lafustarestaurant.com
+Queens Library - Elmhurst  (ALC),966,86-01 Broadway,Elmhurst,11373,"(40.73858179100006, -73.87675876499992)",718-271-1020,Free,http://www.queenslibrary.org/
+Queens Library - Far Rockaway,967,1637 Central Avenue,Far Rockaway,11691,"(40.604486543000064, -73.75264129099992)",718-327-2549,Free,http://www.queenslibrary.org/
+LaGuardia Airport - Continental Airlines Presidents Club,1139,"Concourse A, third level",Flushing,11371,"(40.77394694900005, -73.87021737599991)",718-505-7435,Free,http://www.continental.com/web/en-US/content/travel/airport/lounge/detaillocations.aspx#New%20York
+LaGuardia Airport - Northwest WorldClubs Lounge,1141,Behind the Northwest ticket counter,Flushing,11371,"(40.76856292700006, -73.8615473289999)",718-476-7196,Free,http://www.continental.com/web/en-US/content/travel/airport/lounge/detaillocations.aspx#New%20York
+Queens Library - Auburndale,956,25-55 Francis Lewis Boulevard,Flushing,11358,"(40.77375244500007, -73.7963431849999)",718-352-2027,Free,http://www.queenslibrary.org/
+Queens Library - East Flushing,965,196-36 Northern Boulevard,Flushing,11358,"(40.75754601300008, -73.78430296599993)",718-357-6643,Free,http://www.queenslibrary.org/
+Queens Library - Flushing  (ALC),968,41-17 Main Street,Flushing,11355,"(40.75779210600007, -73.82886230699995)",718-661-1200,Free,http://www.queenslibrary.org/
+Queens Library - Hillcrest,973,187-05 Union Turnpike,Flushing,11366,"(40.729253278000044, -73.78190891699995)",718-454-2786,Free,http://www.queenslibrary.org/
+Queens Library - Kew Gardens Hills,976,72-33 Vleigh Place,Flushing,11367,"(40.725918817000036, -73.82071906999994)",718-261-6654,Free,http://www.queenslibrary.org/
+Queens Library - McGoldrick,981,155-06 Roosevelt Avenue,Flushing,11354,"(40.76375065000008, -73.80983348299992)",718-461-1616,Free,http://www.queenslibrary.org/
+Queens Library - Mitchell-Linden,983,29-42 Union Street,Flushing,11354,"(40.77112585800006, -73.82691581099994)",718-539-2330,Free,http://www.queenslibrary.org/
+Queens Library - Pomonok,988,158-21 Jewel Avenue,Flushing,11365,"(40.73303457500003, -73.80987988599992)",718-591-4343,Free,http://www.queenslibrary.org/
+Queens Library - Queensboro Hill,991,60-05 Main Street,Flushing,11355,"(40.74293128100004, -73.82516996499993)",718-359-8332,Free,http://www.queenslibrary.org/
+Modus Vivendi,136,72-07 Austin Street,Forest Hills,11375,"(40.71928919000004, -73.84246057399992)",718-997-0500,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Modus_Vivendi_Tea_and_Cafe_Glry_Forest_HillsQueens_NY_14949.aspx
+Munch Cafe' & Grill,141,7160 Yellowstone Blvd,Forest Hills,11375,"(40.72144744600007, -73.85568821499993)",718-544-0075,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Munch_Cafe_and_Grill_Forest_HillsQueens_NY_15107.aspx
+Barnes & Noble,1330,70-00 Austin Street,Forest Hills,11375,"(40.72077559300004, -73.84691655099994)",,Free,http://www.barnesandnobleinc.com
+Queens Library - Forest Hills,969,108-19 71 Avenue,Forest Hills,11375,"(40.72214728800009, -73.8430149969999)",718-268-7934,Free,http://www.queenslibrary.org/
+Queens Library - North Forest Park,984,98-27 Metropolitan Avenue,Forest Hills,11375,"(40.71118596300005, -73.85367277799992)",718-261-5512,Free,http://www.queenslibrary.org/
+Barnes & Noble,1331,176-60 Union Turnpike,Fresh Meadows,11366,"(40.72567918300007, -73.7910210359999)",,Free,http://www.barnesandnobleinc.com
+Queens Library - Fresh Meadows,970,193-20 Horace Harding Expressway,Fresh Meadows,11365,"(40.74154362200005, -73.78227583199993)",718-454-7272,Free,http://www.queenslibrary.org/
+Queens Library - Glendale,972,78-60 73 Place,Glendale,11385,"(40.70257699800004, -73.87579710799992)",718-821-4980,Free,http://www.queenslibrary.org/
+Panera Bread,1210,7325 Woodhaven Boulevard,Glendale,11385,"(40.71010737600005, -73.85876661499992)",,Free,http://www.panerabread.com/cafes/results.php?NAV=2&state=NY&zip=&city=&address=&radius=10&action=searchwifi
+Queens Library - Hollis,974,202-05 Hillside Avenue,Hollis,11423,"(40.72016876500004, -73.76230411099993)",718-465-7355,Free,http://www.queenslibrary.org/
+Queens Library - Howard Beach,975,92-06 156 Avenue,Howard Beach,11414,"(40.66380479600008, -73.8417968629999)",718-641-7086,Free,http://www.queenslibrary.org/
+Queens Library - Jackson Heights,127,35-51 81 Street,Jackson Heights,11372,"(40.75019615500008, -73.88506957599992)",718-899-2500,Free,http://www.queenslibrary.org/
+JFK International Airport - Continental Airlines Presidents Club,1137,Terminal 3 near Gate 6,Jamaica,11430,"(40.63824581200004, -73.7852876199999)",,Free,http://www.continental.com/web/en-US/content/travel/airport/lounge/detaillocations.aspx#New%20York
+Queens Library - South Jamaica,999,108-41 Guy R. Brewer Boulevard,Jamaica,11433,"(40.69554154400004, -73.79022813699993)",718-739-4088,Free,http://www.queenslibrary.org/
+JFK International Airport - Jet Blue,1027,Terminal 5,Jamaica,11430,"(40.64577850300009, -73.77556267199992)",,Free,http://www.jetblue.com/about/whyyoulllike/about_WhyWireless.html
+Queens Library - Central Library  (ALC),123,89-11 Merrick Boulevard,Jamaica,11432,"(40.70783676000008, -73.79464232599992)",718-990-0700,Free,http://www.queenslibrary.org/
+Queens Library - Baisley Park,957,117-11 Sutphin Boulevard,Jamaica,11436,"(40.680311645000074, -73.7916786099999)",718-529-1590,Free,http://www.queenslibrary.org/
+Queens Library - Rochdale Village  (ALC),995,169-09 137 Avenue,Jamaica,11434,"(40.672875538000085, -73.77059021499991)",718-723-4440,Free,http://www.queenslibrary.org/
+Queens Library - Laurelton,977,134-26 225 Street,Laurelton,11413,"(40.67695306100006, -73.74567356199992)",718-528-2822,Free,http://www.queenslibrary.org/
+Queens Library - Douglaston/Little Neck,964,249-01 Northern Boulevard,Little Neck,11362,"(40.76822576400008, -73.73822944099993)",718-225-8414,Free,http://www.queenslibrary.org/
+Queens Library - North Hills,985,57-04 Marathon Parkway,Little Neck,11362,"(40.759245468000074, -73.73182667799995)",718-225-3550,Free,http://www.queenslibrary.org/
+Panera Bread,1207,25441 Horace Harding Expressway,Little Neck,11362,"(40.764932172000044, -73.72606140899995)",,Free,http://www.panerabread.com/cafes/results.php?NAV=2&state=NY&zip=&city=&address=&radius=10&action=searchwifi
+Queens Library - Sunnyside,1002,43-06 Greenpoint Avenue,Long Island City,11104,"(40.74080911500005, -73.92166915999991)",718-784-3033,Free,http://www.queenslibrary.org/
+Queens Library - Astoria,121,14-01 Astoria Boulevard,Long Island City,11102,"(40.77238426900004, -73.92872041899994)",718-278-2220,Free,http://www.queenslibrary.org/
+Queens Library - Broadway,122,40-20 Broadway,Long Island City,11103,"(40.75853035400007, -73.91862469199992)",718-721-2462,Free,http://www.queenslibrary.org/
+Queens Library - Court Square,125,25-01 Jackson Avenue,Long Island City,11101,"(40.74706432500005, -73.94424455799992)",718-937-2790,Free,http://www.queenslibrary.org/
+Queens Library - Steinway (ALC),131,21-45 31 Street,Long Island City,11105,"(40.77681718800005, -73.90941694199995)",718-728-1965,Free,http://www.queenslibrary.org/
+Queens City Bakery & Cafe,137,2405 Jackson Ave,Long Island City,11101,"(40.74632636000007, -73.94501749299991)",718-361-5700,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Queens_City_Bakery_Cafe_New_York_NY_22669.aspx
+Ten63 Caf̩,138,1063 Jackson Avenue,Long Island City,11101,"(40.74295360000008, -73.95238940099995)",718-482-7679,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Ten63_Cafe_Queens_NY_17273.aspx
+Communitea,139,4702 Vernon Blvd,Long Island City,11101,"(40.74541059900008, -73.95348475299994)",718-729-7708,Free,http://www.yelp.com/biz/communitea-long-island-city
+Speedimpex USA,143,35-02 48th Ave,Long Island City,11101,"(40.74024430500003, -73.93037507799994)",,Free,http://v4.jiwire.com/wi-fi-wireless-hotspot-Long-Island-City-New-York-NY-US-Speedimpex-USA-1133526.htm
+Panera Bread,1211,38-01 35th Avenue,Long Island City,11101,"(40.755632537000054, -73.92246282399992)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Panera_Bread_Long_Island_City_NY_87229.aspx
+Queens Library - Long Island City,1178,37-44 21 Street,Long Island City,11101,"(40.757809268000074, -73.93930490299994)",718-752-3700,Free,http://www.queenslibrary.org/
+Thomas Jefferson Park Recreation Center Building,1361,"1 Avenue, East 111 to 114 streets",Manhattan,10029,"(40.793633972000066, -73.93674694299995)",,Free,http://www.nycgovparks.org/parks/thomasjeffersonpark
+"Battery Park, around Battery Gardens",1362,17 State Street,Manhattan,10004,"(40.70154456600005, -74.0147714869999)",,Free,http://www.nycgovparks.org/parks/batterypark
+MTA 14th St station (A)(C)(E),0,14th St & 8th Av,Manhattan,10011,"(40.73975266100007, -74.0025238149999)",877-690-5116,Free,http://www.mta.info
+MTA 14th St station (F)(M),0,14th St & 6th Av,Manhattan,10011,"(40.73736090700004, -73.99683993799994)",877-690-5116,Free,http://www.mta.info
+MTA 23rd St station (C)(E),0,23rd St & 8th Av,Manhattan,10011,"(40.745294182000066, -73.99848652499992)",877-690-5116,Free,http://www.mta.info
+Queens Library - Maspeth,980,69-70 Grand Avenue,Maspeth,11378,"(40.72709375800008, -73.89296053299995)",718-639-5228,Free,http://www.queenslibrary.org/
+Queens Library - Middle Village,982,72-31 Metropolitan Avenue,Middle Village,11379,"(40.71294390200006, -73.88086427499991)",718-326-1390,Free,http://www.queenslibrary.org/
+Whole Foods Market,1304,270 Greenwich Street,New Yor k,10007,"(40.71548742500005, -74.01151341399992)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Whole_Foods_Market_New_York_NY_89527.aspx
+111 Wadsworth Ave,1115,111 Wadsworth Ave,New York,10033,"(40.84807994600004, -73.93587786099994)",212-568-3417,Free,http://v4.jiwire.com/wi-fi-wireless-hotspot-New-York-New-York-NY-US-111-Wadsworth-Avenue-17B-1284187.htm
+404 W 54th Street,1117,404 W 54th Street,New York,10019,"(40.76611954300006, -73.98791631199992)",,Free,
+Barnes & Noble,1120,396 Avenue of the Americas,New York,10011,"(40.73336500100004, -73.99938299299993)",212-674-8780,Free,http://www.barnesandnobleinc.com
+Gizzi's Coffee,1131,16 W. 8th Street,New York,10011,"(40.732595090000075, -73.99755181599994)",212-260-9700,Free,http://www.openwifinyc.com/classic/a/Gizzis-Coffee-NY-10011
+Wagner Park,1175,Battery  Place & 1 Place,New York,10280,"(40.705118249000066, -74.0183821519999)",,Free,http://www.nycwireless.net/press/wagner-park-gets-hotter-with-wi-fi/
+NYC Public Library - 67th Street Branch,154,328 East 67th Street,New York,10021,"(40.76491430900006, -73.95955031799991)",212-734-1717,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - 115th Street,155,203 West 115th Street,New York,10026,"(40.80298150100003, -73.95353121199992)",212-666-9393,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - 125th Street,156,224 East 125th Street,New York,10035,"(40.80301911500004, -73.9348461319999)",212-534-5050,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Aguilar,157,174 East 110th Street,New York,10029,"(40.79418564000008, -73.9434647249999)",212-534-2930,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Chatham Square,158,33 East Broadway,New York,10002,"(40.71333374500006, -73.99649021999994)",212-964-6598,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Countee Cullen,159,104 West 136th Street,New York,10030,"(40.81475074300005, -73.94121462399994)",212-491-2070,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Fort Washington,161,535 West 179th Street,New York,10033,"(40.847869967000065, -73.93386605299992)",212-927-3533,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - George Bruce,162,518 West 125th Street,New York,10027,"(40.81377512500006, -73.9570640419999)",212-662-9727,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Hamilton Fish Park,163,415 East Houston Street,New York,10002,"(40.71939791400007, -73.97960679199991)",212-673-2290,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Hamilton Grange,164,503 West 145th Street,New York,10031,"(40.825686225000084, -73.94801957999994)",212-926-2147,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Harlem,165,9 West 124th Street,New York,10027,"(40.806185509000045, -73.94330281899994)",212-348-5620,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Hudson Park,166,66 Leroy Street,New York,10014,"(40.72989555000004, -74.00532911899995)",212-243-6876,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Inwood,167,4790 Broadway,New York,10034,"(40.86573036000004, -73.92585455099993)",212-942-2445,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Jefferson Market,168,425 Avenue of Americas,New York,10011,"(40.734605668000086, -73.99917008699992)",212-243-4334,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Macomb's Bridge,169,2650 Adam Clayton Powell Jr Blvd.,New York,10039,"(40.82658319600006, -73.93600461099993)",212-281-4900,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Mid-Manhattan Library,170,455 Fifth Avenue,New York,10016,"(40.751780834000044, -73.98150617599993)",212-340-0833,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - New Amsterdam,171,9 Murray Street,New York,10007,"(40.71360800800005, -74.00786006299995)",212-732-8186,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Ottendorfer,172,135 2nd Avenue,New York,10003,"(40.728920636000055, -73.98778325299992)",212-674-0947,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Roosevelt Island,173,524 Main Street,New York,10044,"(40.76125463500006, -73.95016714099995)",212-308-6243,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Schomburg Ctr for Research in Black Culture,174,515 Malcolm X Boulevard,New York,10037,"(40.81466551900007, -73.94094374999992)",212-491-2200,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Seward Park,175,192 East Broadway,New York,10002,"(40.71445583700006, -73.98853621099994)",212-477-6770,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Tompkins Square,176,331 East 10th Street,New York,10009,"(40.72730844600005, -73.98040894099995)",212-228-4747,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Washington Heights,177,1000 Saint Nicholas Avenue,New York,10032,"(40.83451465200005, -73.93967577399991)",212-923-6054,Free,http://www.nypl.org/branch/services/wifi.html
+Activebeauty,178,"Broadway, between Prince Street & Spring Street",New York,10012,"(40.72365408300004, -73.99827911199992)",917-206-4912,Free,http://usatoday.jiwire.com/wi-fi-wireless-hotspot-New-York-New-York-NY-US-Active-Beauty-com-1083578.htm
+Bowling Green Park,180,Broadway and Whitehall,New York,10004,"(40.70497244100005, -74.01366225999993)",,Free,http://www.downtownny.com/wireless.asp
+Bryant Park,181,6th Avenue & 42nd Street,New York,10018,"(40.75374089500008, -73.98356296599991)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Bryant_Park_New_York_NY_6144.aspx
+Chelsea Market,182,75 Ninth Avenue,New York,10011,"(40.742554314000074, -74.00605188299994)",,Free,http://www.chelseamarket.com/
+City Hall Park,183,corner Broadway and Murray Street,New York,10007,"(40.71226038200007, -74.00705190899993)",,Free,http://www.downtownny.com/wireless.asp
+EVill Net,184,Avenue A & Avenue B 2nd & 10th Streets,New York,10009,"(40.725022462000084, -73.98291342999994)",,Free,http://www.magicbike.net/evill/faq.html
+Groovy Greenwich Village Node,185,Covers cafes around the corner of  MacDougal St &,New York,10012,"(40.72916830500009, -74.0011906499999)",,Free,http://auth.nycwireless.net/hotspots_map.php
+Location One,186,26 Greene Street,New York,10013,"(40.72098890800004, -74.00246758999992)",212-334-3347,Free,
+Whitehall-Staten Island Ferry Terminal,187,South St. and State St.,New York,10004,"(40.70116275100008, -74.0132827939999)",,Free,http://www.nyc.gov/html/dot/html/ferrybus/statfery.shtml
+Washington Market Park,188,corner Chambers St. and Greenwich St.,New York,10007,"(40.71706061700007, -74.01143537899992)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Washington_Market_Park_New_York_NY_18297.aspx
+Winter Garden In the World Financial Center,189,West Side Highway between Vessey St. and Liberty S,New York,10280,"(40.71314063400007, -74.01541701499991)",212-417-7000,Free,http://www.openwifinyc.com/classic/index.php
+South Street Seaport,190,South Street and Fulton Street,New York,10038,"(40.705568853000045, -74.00163025199993)",,Free,http://www.downtownny.com/discover/wifi/
+Tompkins Square Park,191,500 E 9th St,New York,10009,"(40.72634799500008, -73.98171166799995)",,Free,http://auth.nycwireless.net/hotspots_map.php
+'sNice,192,45 8th Ave,New York,10014,"(40.738475701000084, -74.00407042599994)",212-645-0310,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_sNice_New_York_NY_6740.aspx
+Ace Bar,193,531 East 5th Street,New York,10009,"(40.72439665200005, -73.98287751299995)",212-979-8476,Free,http://maps.google.com/maps?hl=en&ie=UTF-8&q=ace+bar+nyc&fb=1&split=1&gl=us&view=text&latlng=16021670854050475894&dtab=1&ei=i5NkSoaCNYrCNb2l-OwL&oi=md_structdata&sa=X
+Apple Store Soho,195,103 Prince St,New York,10012,"(40.725119791000054, -73.99897537999993)",212-226-3126,Free,http://www.apple.com
+ARK Communications,196,90 Stanton Street,New York,10002,"(40.721476901000074, -73.98823196099994)",212-387-0040,Free,http://usatoday.jiwire.com/wi-fi-wireless-hotspot-New-York-New-York-NY-US-ARK-Comm
+Blue Spoon Coffee Company,197,76 Chambers St,New York,10007,"(40.71427229800008, -74.00696194299991)",212-619-7230,Free,http://www.bluespooncoffee.com/
+Bowery Poetry Club,198,308 Bowery,New York,10012,"(40.72495762500006, -73.9927122389999)",212-619-7230,Free,http://www.bowerypoetry.com/
+Cassava,199,474 6th Ave,New York,10011,"(40.73574197600004, -73.9976978489999)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Cassava_Bubble_Tea_New_York_NY_6209.aspx
+Choux Factory,200,1685 First Avenue,New York,10128,"(40.77792018400004, -73.94899203199992)",212-627-4318,Free,http://www.yelp.com/biz/choux-factory-new-york-city
+Circa Tabac,201,32 Watts Street,New York,10013,"(40.72368146000008, -74.00438339499993)",212-803-5890,Free,http://www.nyu.edu/src/cityguide/cityinfo.html
+Cornelia Street Cafe,203,13 Cornelia Street,New York,10014,"(40.731652301000054, -74.00181851499991)",212-989-9319,Free,http://www.corneliastreetcafe.com/home.asp
+The Downtown Uptown Caf̩  Lounge,204,1626 Second Avenue,New York,10028,"(40.77662060800009, -73.95232922299994)",212-327-1327,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Downtown_Uptown_Cafe_Lounge_New_York_NY_12093.aspx
+The Downtown Uptown Caf̩  Lounge,205,41 Avenue B,New York,10009,"(40.72284307800004, -73.98261094499992)",212-477-1021,Free,http://www.nyu.edu/src/cityguide/cityinfo.html
+Dunkin Donuts,206,166 2nd Ave,New York,10003,"(40.72990858400004, -73.98632180399994)",,Free,http://www.openwifinyc.com/classic/a/Dunkin-Donuts-2nd-Ave-NY-10003
+Earth Matters,207,177 Ludlow St.,New York,10002,"(40.72197364200008, -73.98765465199995)",212-475-4180,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Earth_Matters_New_York_NY_12189.aspx
+Esperanto Cafe,208,114 MacDougal Street,New York,10012,"(40.729629430000045, -74.00050873599992)",212-475-5400,Free,http://www.nyu.edu/src/cityguide/cityinfo.html
+Grounded,209,28 Jane Street,New York,10014,"(40.738011860000086, -74.0033956069999)",212-647-0943,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Grounded_New_York_NY_6424.aspx
+Hecht Viewing Garden,210,3 Av & 9 St,New York,10003,"(40.72995830900004, -73.98934175099993)",212-353-9063,Free,http://evpcnyc.org/hecht/index.html
+Jeremy's Ale House,212,228 Front Street,New York,10038,"(40.70772623100004, -74.00210641299992)",212-964-3537,Free,http://www.jeremysalehouse.com/
+Lalita Java Espresso Bar and Coffee Lounge,213,210 East Third St.,New York,10009,"(40.72240945300007, -73.98291770899993)",212-228-8448,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Lalita_Java_Espresso_Bar_and_Coffee_Lounge_New_York_NY_14112.aspx
+NewsCafe on Broadway,214,11 Broadway,New York,10004,"(40.705120599000054, -74.01414559099993)",877-353-3377,Free,http://usatoday.jiwire.com/wi-fi-wireless-hotspot-New-York-New-York-NY-US-NewsCafe-on-Broadway-1020785.htm
+Parish & Co Restaurant,215,202 Ninth Avenue,New York,10011,"(40.745922273000076, -74.00135335099992)",,Free,http://www.nyu.edu/src/cityguide/cityinfo.html
+Soy Luck Club,217,115 Greenwich Avenue,New York,10014,"(40.73829185000005, -74.00237440899991)",212-229-9191,Free,http://www.soyluckclub.com/
+St. Dymphna's,218,118 St. Mark's Place,New York,10009,"(40.72692474200005, -73.98406025699995)",,Free,http://www.nyu.edu/src/cityguide/cityinfo.html
+Startegy Atrium and Cafe,219,115 E. 57th St.,New York,10022,"(40.761708834000046, -73.9697499319999)",,Free,http://www.openwifispots.com/citylist_free_wifi_wireless_hotspot-New_York_NY.aspx
+Starwich Salads & Sandwiches,220,525 West 42nd Street,New York,10036,"(40.76041723800006, -73.99659963899995)",212-736-9170,Free,http://www.nyu.edu/src/cityguide/cityinfo.html
+Starwich Salads & Sandwiches,222,1010 Sixth Avenue,New York,10018,"(40.751951605000045, -73.98569287499993)",212-302-7775,Free,"http://maps.google.com/maps?f=q&source=s_q&view=text&hl=en&gl=us&q=Starwich+Salads+%26+Sandwiches&ie=UTF8&sll=40.733004,-73.989567&sspn=0.054551,0.037553&latlng=3880808307508616319&ei=bsJkSv7QPI2sMrnBsZUM&cd=1"
+State of Grace Pub,224,1074 1st Ave,New York,10022,"(40.75917862500006, -73.96198310099993)",212-207-3858,Free,http://usatoday.jiwire.com/wi-fi-wireless-hotspot-New-York-New-York-NY-US-State-of-Grace-Pub-1251393.htm
+Sunburst Espresso Bar,225,206 3rd Avenue,New York,10003,"(40.73610065300005, -73.9855302929999)",212-674-1702,Free,http://www.yelp.com/biz/sunburst-espresso-bar-new-york
+Sympathy for the Kettle,226,109 St. Marks Place,New York,10009,"(40.72721566200005, -73.98387979199993)",212-979-1650,Free,http://www.yelp.com/biz/sympathy-for-the-kettle-new-york-2
+Tea Spot,227,127 Macdougal St.,New York,10012,"(40.730631267000035, -74.00015514799992)",212-505-0969,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Tea_Spot_New_York_NY_5991.aspx
+Tekserve,228,119 West 23rd St.,New York,10011,"(40.74358905100007, -73.99333452499991)",212-929-3645,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Tekserve_Corp_New_York_NY_17267.aspx
+Veniero's Pasticceria & Caffe,229,342 East 11th Street,New York,10003,"(40.72942253400004, -73.9845214899999)",212-674-7070,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Venieros_Pasticceria_and_Caffe_New_York_NY_18191.aspx
+Ziggies Cafe & Coffeehouse,230,1817 2nd Avenue,New York,10128,"(40.783162298000036, -73.94824776999991)",212-289-0824,Free,http://www.nyu.edu/src/cityguide/cityinfo.html
+Barnes & Noble,383,1280 Lexington Ave,New York,10028,"(40.779973227000085, -73.95557652899993)",,Free,http://www.barnesandnobleinc.com
+Barnes & Noble,384,240 East 86th Street,New York,10028,"(40.777946445000055, -73.95264240299991)",,Free,http://www.barnesandnobleinc.com
+Barnes & Noble,385,2289 Broadway,New York,10024,"(40.786265262000086, -73.97869797499993)",,Free,http://www.barnesandnobleinc.com
+Barnes & Noble,386,1972 Broadway,New York,10023,"(40.774065446000066, -73.98179243499993)",,Free,http://www.barnesandnobleinc.com
+Barnes & Noble,387,33 East 17th Street,New York,10003,"(40.73715231600005, -73.98940555299993)",,Free,http://www.barnesandnobleinc.com
+Barnes & Noble,388,160 E 54th Street,New York,10022,"(40.758505728000046, -73.96978387199994)",,Free,http://www.barnesandnobleinc.com
+Barnes & Noble,389,675 Avenue Of The Americas,New York,10010,"(40.742126135000035, -73.99398785199992)",,Free,http://www.barnesandnobleinc.com
+Barnes & Noble,390,555 5th Ave,New York,10017,"(40.75568065600004, -73.97882325899991)",212-541-5614,Free,http://www.barnesandnobleinc.com
+Barnes & Noble,391,4 Astor Place,New York,10003,"(40.72973072800005, -73.99227514099994)",,Free,http://www.barnesandnobleinc.com
+Cosi,412,2186 Broadway,New York,10024,"(40.78252501700007, -73.98028200899995)",212-595-5616,Free,http://www.getcosi.com
+Cosi,413,60 East 56th Street,New York,10022,"(40.76114406000005, -73.97230589999992)",212-588-1225,Free,http://www.getcosi.com
+Cosi,415,1633 Broadway,New York,10019,"(40.76217567200007, -73.98485320099991)",212-397-9838,Free,http://www.getcosi.com
+Cosi,416,61 West 48th Street,New York,10020,"(40.75873037700006, -73.9805765719999)",212-265-2674,Free,http://www.getcosi.com
+Cosi,417,257 Park Avenue,New York,10017,"(40.75500205700007, -73.97555333199995)",212-598-4070,Free,http://www.getcosi.com
+Cosi,418,38 East 45th Street,New York,10017,"(40.75426682500006, -73.97731498399992)",212-370-0705,Free,http://www.getcosi.com
+Cosi,419,685 3rd Avenue,New York,10017,"(40.75157886400007, -73.97332768399991)",212-697-8449,Free,http://www.getcosi.com
+Cosi,421,498 7th Avenue,New York,10017,"(40.75284684800005, -73.99001663999991)",212-947-1005,Free,http://www.getcosi.com
+Cosi,424,461 Park Avenue South,New York,10016,"(40.74513591900006, -73.98227310499993)",212-634-3467,Free,http://www.getcosi.com
+Cosi,425,200 Vesey Street,New York,10281,"(40.713563401000044, -74.0148579989999)",212-571-2001,Free,http://www.getcosi.com
+Cosi,426,55 Broad Street,New York,10004,"(40.705280135000066, -74.01104383099994)",212-344-5000,Free,http://www.getcosi.com
+Cosi,428,841 Broadway,New York,10003,"(40.73432811400005, -73.99118850699995)",212-614-8544,Free,http://www.getcosi.com
+Cosi,429,11 West 42nd Street,New York,10036,"(40.754078210000046, -73.9816499129999)",212-398-6662,Free,http://www.getcosi.com
+Vietnam Veterans Memorial Plaza,775,55 Water Street,New York,10004,"(40.70321350000006, -74.00907426999993)",,Free,http://www.downtownny.com/discover/wifi/
+Union Square Park,776,4th Avenue & Broadway,New York,10003,"(40.73581961200006, -73.99039723999994)",,Free,http://www.unionsquarenyc.org/
+Rector Park,777,,New York,10280,"(40.70933062000006, -74.01740717299992)",,Free,http://www.bpcparks.org/bpcp/parks/parks.php#rector
+Madison Square Park,779,Madison Avenue and 23rd Street,New York,10010,"(40.742221735000044, -73.98802260199994)",,Free,http://www.nycgovparks.org/parks/madisonsquarepark
+Apple Store,784,767 5th Avenue,New York,10022,"(40.76355119700008, -73.97229406899993)",212-336-1440,Free,http://www.apple.com/retail/fifthavenue/
+Bway.net,787,568 Broadway,New York,10012,"(40.724238695000054, -73.99719676599995)",,Free,http://auth.nycwireless.net/node_list.php
+Coogan's,791,600 West 169th Street,New York,10032,"(40.841689443000064, -73.93990057499991)",,Free,
+Fat Black Pussycat,794,130 W 3rd St,New York,10012,"(40.73062302800008, -74.00092728499993)",,Free,http://www.thefatblackpussycat.com/gallery.html
+Golden Krust Bakery& Grill,795,408 8th Ave,New York,10001,"(40.74979226000005, -73.99480282699994)",212-244-4049,Free,http://nymag.com/listings/restaurant/Golden-Krust-Bakery/
+Stuyvesant Cove Park,800,23rd Street and East River Drive,New York,10002,"(40.73283511100004, -73.97398466899995)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Stuyvesant_Cove_Park_New_York_NY_24465.aspx
+Stone Street,819,Stone Street,New York,10004,"(40.70424815800004, -74.0104738039999)",,Free,http://www.downtownny.com/discover/wifi/
+Chevys Fresh Mex Restaurant,827,102 North End Avenue,New York,10282,"(40.71500533600005, -74.01524212599992)",201-807-9090,Free,http://www.chevysny.com
+Citywidetech.com,828,514 W 176th Street,New York,10033,"(40.84514179200005, -73.93431601399993)",917-628-3131,Free,http://www.citywidetech.com
+Cosi,831,320 Park Avenue,New York,10022,"(40.75768729200007, -73.97421712099992)",212-754-6081,Free,http://www.getcosi.com
+Equinox 102 - Broadway @ 19th,832,897 Broadway,New York,10003,"(40.739063130000034, -73.99018251299992)",212-780-9300,Free,http://www.equinoxfitness.com/
+Equinox 106 - 2nd Ave @ 54th,833,250 East 54th Street,New York,10022,"(40.75733159100008, -73.96717015899992)",212-277-5400,Free,http://www.equinoxfitness.com/
+Equinox 107 - Broadway @ 50th,834,1633 Broadway,New York,10019,"(40.76217556000006, -73.98485368599995)",212-541-7000,Free,http://www.equinoxfitness.com/
+Equinox 109 - Lexington Ave @ 44th,835,420 Lexington Avenue,New York,10017,"(40.75267176300008, -73.97587674699992)",212-953-2499,Free,http://www.equinoxfitness.com/
+Equinox 110 - Wall St @ Nassau,836,14 Wall Street,New York,10005,"(40.70762904700007, -74.0107699109999)",212-964-6688,Free,http://www.equinoxfitness.com/
+Equinox 114 - Broadway @ Prince,837,568 Broadway,New York,10012,"(40.724237423000034, -73.9971958559999)",212-334-4631,Free,http://www.equinoxfitness.com/
+Morans,851,103 Washington Street,New York,10006,"(40.70837513200007, -74.0140769269999)",212-732-2020,Free,http://www.moransnyc.com
+SidewayZen,860,410 West 24th St,New York,10011,"(40.746999978000076, -74.00142298299994)",,Free,http://sidewayzen.com
+Slainte Pub NYC,861,304 Bowery St,New York,10012,"(40.72479242700007, -73.99271653999995)",212-253-7030,Free,http://www.slaintenyc.com
+Wall Street Park,1072,,New York,10005,"(40.70452591800006, -74.00640363999992)",,Free,http://www.downtownny.com/?sid=49
+60 Wall St. Atrium,1073,60 Wall Street,New York,10005,"(40.70624698800009, -74.0085078699999)",,Free,http://www.downtownny.com/?sid=49
+Community Access - Avenue D,1080,107 Avenue D,New York,10009,"(40.723630152000055, -73.9763123919999)",,Free,
+MediaNoche,1081,161 East 106th Street,New York,10029,"(40.79210574800004, -73.94536206999993)",,Free,http://www.medianoche.us/
+Limeleaf,1086,128 W 72 Street,New York,10023,"(40.77770461400007, -73.9799682279999)",212-501-7800,Free,http://www.menupages.com/restaurants/lime-leaf/
+Avalon Bowery Place,1088,11 East 1st St,New York,10003,"(40.724445855000056, -73.99172033999992)",866-679-5715,Free,http://development.inputnine.com/archive/avalon/boweryplace/site/
+Cosi,1090,53 East 8th Street,New York,10003,"(40.73126505500005, -73.99346761599992)",212-260-1507,Free,http://www.getcosi.com
+Lincoln Center - Damrosch Park,1112,62nd Street near Amsterdam Avenue,New York,10023,"(40.77230553000004, -73.98524712999995)",,Free,http://www.lincolncenter.org/load_screen.asp?screen=wifi
+Lincoln Center - Josie Robertson Plaza,1113,Columbus Avenue between 62nd and 65th Streets,New York,10023,"(40.77230950200004, -73.98339123199992)",,Free,http://www.lincolncenter.org/load_screen.asp?screen=wifi
+Lincoln Center - North Plaza,1114,65th Street between Amsterdam Avenue and Columbus Avenue,New York,10023,"(40.77300233100004, -73.98367444699994)",,Free,http://www.lincolncenter.org/load_screen.asp?screen=wifi
+Apple Store,1212,401 W 14th Street,New York,10014,"(40.741333282000085, -74.00552696199992)",,Free,http://www.apple.com/retail/west14thstreet/
+American Trash,1215,1471 1st Avenue,New York,10075,"(40.770902652000075, -73.95406512499994)",,Free,http://www.nycamericantrash.com/trash_wii.html
+Boqueria,1216,53 West 19th Street,New York,10011,"(40.740300940000054, -73.99370327999992)",,Free,http://www.wififreespot.com/ny.html
+Bowery Bar,1217,40 E 4th Street,New York,10003,"(40.72710551900008, -73.99204361999995)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Bowery_Bar_New_York_NY_5589.aspx
+B Cup Caf̩,1218,212 Avenue B,New York,10009,"(40.72869528400008, -73.97882167599994)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_B_Cup_Cafe_New_York_NY_5590.aspx
+V Bar,1219,225 Sullivan St,New York,10012,"(40.729542543000036, -73.9995093899999)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_V_Bar_New_York_NY_5521.aspx
+Dunkin Donuts,1220,899 Main Street,New York,10044,"(40.76963224000008, -73.94131221399994)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Dunkin_Donuts_Cortland_Manor_NY_12141.aspx
+Dunikn Donuts,1221,215 1st Avenue,New York,10003,"(40.73065974300005, -73.9834149969999)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Dunkin_Donuts_New_York_NY_12150.aspx
+Duncan Donuts,1222,170 2nd Avenue,New York,10003,"(40.73009270700004, -73.9861247739999)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Duncan_Donuts_New_York_NY_6342.aspx
+Plaza at 7 World Trade Center,1223,Vesey Street & Greenwich Street,New York,10048,"(40.71323522200004, -74.01148891999992)",,Free,http://www.downtownny.com/discover/wifi/
+Penn Station - Waiting Room,1225,7th Avenue & 33rd Street,New York,10119,"(40.74995917700005, -73.99214703599995)",,Free,http://www.mta.info/lirr/News/2008/PennWireless.htm
+British Memorial Garden,1226,Hanover Square,New York,10004,"(40.70477206000004, -74.0093490829999)",,Free,http://www.britishmemorialgarden.org/intro.html
+Central Park Charles a Dana Discovery Center,1227,36 W 110th Street,New York,10026,"(40.797063448000074, -73.95145113299992)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Central_Park_Charles_a_Dana_Discovery_Center_New_York_NY_24668.aspx
+Caf̩ One,1229,1619 Amsterdam Avenue,New York,10031,"(40.822102302000076, -73.9496353049999)",,Free,http://www.openwifinyc.com/classic/a/Cafe-One-NY-10031
+Net Caf̩,1230,246 East 14th Street,New York,10003,"(40.732287634000045, -73.9854871899999)",,Free,http://www.ncafeny.com/
+Ost Caf̩,1231,441East 12th Street,New York,10009,"(40.72933149100004, -73.98150306799994)",,Free,http://www.openwifinyc.com/classic/a/Ost-Cafe-NY-10009
+Tasty Caf̩,1232,2062 Broadway,New York,10023,"(40.777951236000035, -73.98159293999993)",,Free,http://www.openwifinyc.com/classic/a/Tasty-Cafe-NY-10023
+Beach Caf̩,1233,1362 2nd Avenue,New York,10021,"(40.76837719100007, -73.95866011599992)",,Free,http://www.openwifinyc.com/classic/a/Beach-Cafe-NY-10021
+Gigi Cage,1234,2067 Broadway,New York,10023,"(40.77841654900004, -73.9824424649999)",,Free,http://www.openwifinyc.com/classic/a/Gigi-Cafe-NY-10023
+Pecan,1235,130 Franklin Street,New York,10013,"(40.71931119100009, -74.00658449999992)",,Free,http://www.openwifinyc.com/classic/a/Pecan-NY-10013
+Andrews Coffee Shop,1236,116 John Street,New York,10038,"(40.70746874100007, -74.00589065399993)",,Free,http://www.openwifinyc.com/classic/a/Andrews-Coffee-Shop-NY-10038
+Antique Caf̩,1237,55 West 26th Street,New York,10010,"(40.74472908300004, -73.99085220299992)",,Free,http://www.openwifinyc.com/classic/a/Antique-Cafe-NY-10010
+East West Caf̩,1239,78 5th Avenue,New York,10011,"(40.735807375000036, -73.99418370199993)",,Free,http://www.openwifinyc.com/classic/a/East-West-Cafe-NY-10011
+Bravo Caf̩,1240,52 Broadway,New York,10004,"(40.70648033500004, -74.01227067399992)",,Free,http://www.openwifinyc.com/classic/a/Bravo-Cafe-NY-10004
+Condesa Caf̩,1241,183 West 10th Street,New York,10014,"(40.73438963600006, -74.00269312799992)",,Free,http://www.openwifinyc.com/classic/a/Condesa-Cafe-NY-10014
+Silo Caf̩,1242,31 East 32nd Street,New York,10016,"(40.74640902800007, -73.98317063699994)",,Free,
+Gotham Coffee House,1243,1298 2nd Avenue,New York,10065,"(40.76623757400006, -73.95954717299992)",,Free,
+Brama Caf̩,1244,157 2nd Avenue,New York,10003,"(40.72973852400008, -73.98722740499994)",,Free,
+Ditch Plains,1245,29 Bedford Street,New York,10014,"(40.729203677000044, -74.00379979299993)",,Free,
+Peace and Love,1246,378 1/2 Greenwich Street,New York,10013,"(40.719928275000086, -74.0104747449999)",,Free,
+Merchants Gate,1247,Central Park - SW Corner,New York,10000,"(40.768244232000086, -73.98095634599991)",,Free,
+Balducci's Mezzanine Caf̩,1248,81 8th Avenue,New York,10011,"(40.740128276000064, -74.00276082199991)",,Free,http://www.openwifinyc.com/classic/a/Balduccis-Mezzanine-Cafe-NY-10011
+Kaffe 1668,1249,275 Greenwich Street,New York,10007,"(40.715177890000064, -74.0109351829999)",,Free,http://www.openwifinyc.com/classic/a/Kaffe-1668-NY-10007
+Giana Espresso Bar,1250,1584 1st Avenue,New York,10028,"(40.77447105600004, -73.95079612699993)",,Free,http://www.openwifinyc.com/classic/a/Giana-Espresso-Bar-NY-10028
+Caf̩ Addis,1256,435 W 125 Street,New York,10027,"(40.81242720400007, -73.95507487499992)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_CAFE_ADDIS_New_York_NY_31195.aspx
+Cafecito,1257,185 Avenue C,New York,10009,"(40.72690548500009, -73.97711089499995)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Cafecito_New_York_NY_6185.aspx
+Cake Shop,1264,152 Ludlow Street,New York,10002,"(40.72071440800005, -73.98739961899992)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Cake_Shop_New_York_NY_5454.aspx
+Flight 151,1265,151 8th Avenue,New York,10011,"(40.74210414800007, -74.00115951799995)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Flight_151_New_York_NY_6377.aspx
+Galaxy Global Eatery,1266,15 Irving Place,New York,10003,"(40.73491801900008, -73.98845651599993)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Galaxy_Global_Eatery_New_York_NY_5758.aspx
+Greenwich Treehouse,1267,46 Greenwich Avenue,New York,10011,"(40.735614500000054, -74.00027876099995)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Greenwich_Treehouse_New_York_NY_5770.aspx
+Gramstand,1268,214 Avenue A,New York,10009,"(40.72986300800005, -73.98050638899991)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Gramstand_New_York_NY_5480.aspx
+Housing Works Bookstore Caf̩,1271,126 Crosby Street,New York,10012,"(40.72480609000007, -73.99671187799993)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Housing_Works_Bookstore_Cafe_New_York_NY_5783.aspx
+Lucky Jack's,1274,129 Orchard Street,New York,10002,"(40.71966774400005, -73.9896578609999)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Lucky_Jacks_New_York_NY_5510.aspx
+88 Orchard,1275,88 Orchard Street,New York,10002,"(40.71797609500004, -73.99010174499995)",,Free,http://www.openwifispots.com/citylist_free_wifi_wireless_hotspot-New_York_NY.aspx
+Rapture Caf̩ & Books,1278,200 Avenue A,New York,10009,"(40.72926114300009, -73.98084628899994)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Rapture_Cafe_and_Books_New_York_NY_19752.aspx
+Tisserie,1279,857 Broadway,New York,10003,"(40.73734652400009, -73.99056625599991)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Tisserie_New_York_NY_6842.aspx
+Best Value Electronics,1280,6 West 14th Street,New York,10011,"(40.73599371800009, -73.9943614739999)",,Free,http://www.wififreespot.com/ny.html
+The Little Owl,1281,90 Bedford Street,New York,10014,"(40.73229699400008, -74.0052437089999)",,Free,http://www.thelittleowlnyc.com/
+Columbia University,1284,114 th - 120th Streets,New York,10023,"(40.80771570600007, -73.96228539499992)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Columbia_University_New_York_NY_5679.aspx
+Office Depot,1294,1441 Broadway,New York,10018,"(40.75498892200005, -73.98716782999992)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Office_Depot_New_York_NY_3837.aspx
+Sugar Caf̩,1296,200 Allen Street,New York,10002,"(40.72217242700009, -73.9886341049999)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Sugar_Cafe_New_York_NY_5537.aspx
+Vinny Vincenz Square Pizza,1297,231 1st Avenue,New York,10003,"(40.73115522200004, -73.9830377429999)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Vinny_Vincenz_Square_Pizza_New_York_NY_6878.aspx
+Witchcraft - Midtwon,1298,555 5th Avenue,New York,10017,"(40.755812276000086, -73.97888717399991)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Wichcraft_New_York_NY_6040.aspx
+Witchcraft - Tribeca,1299,397 Greenwich Street,New York,10013,"(40.720426804000056, -74.0097638659999)",,Free,http://www.openwifinyc.com/classic/a/witchcraft-Tribeca-NY-10013
+Witchcraft - Flatiron,1300,11 East 20th Street,New York,10003,"(40.73948552000007, -73.99005812199994)",,Free,http://www.openwifinyc.com/classic/a/witchcraft-Flatiron-NY-10003
+Witchcraft - Village,1301,60 East 8th Street,New York,10003,"(40.73046160900009, -73.99305261299992)",,Free,http://www.openwifinyc.com/classic/a/witchcraft-Village-NY-10003
+Wichcraft,1302,269 11th Avenue,New York,10001,"(40.751693713000066, -74.00497354799995)",,Free,http://www.openwifispots.com/citylist_free_wifi_wireless_hotspot-New_York_NY.aspx
+Witchcrafft - Park Ave,1303,245 Park Avenue,New York,10017,"(40.754611167000064, -73.9746857749999)",,Free,http://www.openwifinyc.com/classic/a/witchcraft-Park-Ave-NY-10167
+Whole Foods Market,1305,95 E Houston Street,New York,10002,"(40.72345639100007, -73.99188057499993)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Whole_Foods_Market_New_York_NY_89526.aspx
+Whole Foods Market,1306,4 Union Square E,New York,10003,"(40.73480119300007, -73.99142452699994)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Whole_Foods_Market_New_York_NY_89525.aspx
+Whole Foods Market,1307,250 7th Avenue,New York,10001,"(40.745306208000045, -73.99548869799992)",,Free,http://www.openwifispots.com/citylist_free_wifi_wireless_hotspot-New_York_NY.aspx
+Whole Foods Market,1308,10 Columbus Cir,New York,10019,"(40.76837445700005, -73.98282007799992)",,Free,http://www.openwifispots.com/citylist_free_wifi_wireless_hotspot-New_York_NY.aspx
+Yogurteria,1309,699 W 39th Street,New York,10018,"(40.75993901600009, -74.00210084299994)",,Free,http://www.openwifispots.com/citylist_free_wifi_wireless_hotspot-New_York_NY.aspx
+Yushi Suhi  Park Ave,1311,245 Park Avenue,New York,10017,"(40.754678640000066, -73.97438720499991)",,Free,http://www.openwifinyc.com/classic/a/Yushi-Sushi-Park-Ave-NY-10167
+Juan Valdez -Lexington Avenue,1312,480 Lexington Avenue,New York,10017,"(40.754290096000034, -73.97427039999991)",,Free,http://www.openwifinyc.com/classic/a/Juan-Valdez-Lexington-Ave-NY-10167
+Juan Valdez - Times Square,1313,1451 Broadway,New York,10036,"(40.75551026100004, -73.98688377899992)",,Free,http://www.openwifinyc.com/classic/a/Juan-Valdez-Times-Sq-NY-10036
+Sublte Tea,1314,121 Madison Ave,New York,10016,"(40.74529787600005, -73.98438154299993)",,Free,http://www.openwifinyc.com/classic/a/Subtle-Tea-NY-10016
+Bonobo,1315,18 East 23rd Street,New York,10010,"(40.74065934100008, -73.9882416339999)",,Free,http://www.openwifinyc.com/classic/a/Bonobo-NY-10010
+Koyzina Caf̩,1316,62 William Street,New York,10005,"(40.70709606100007, -74.00846933199995)",,Free,http://www.openwifinyc.com/classic/a/Koyzina-Cafe-NY-10006
+Financier,1317,62 Stone Street,New York,10004,"(40.70451147300008, -74.00984147299994)",,Free,http://www.openwifinyc.com/classic/a/Financier-NY-10004
+Gregory's Coffee,1318,327  Park Avenue South,New York,10010,"(40.740922037000075, -73.98544940999994)",,Free,http://www.openwifinyc.com/classic/a/Gregorys-Coffee-NY-10010
+View Bar,1319,232 8th Avenue,New York,10011,"(40.744337089000055, -73.99876997199993)",,Free,http://www.openwifinyc.com/classic/a/View-Bar-NY-10011
+Rice,1320,115 Lexington Ave,New York,10016,"(40.74245456500006, -73.98233837899994)",,Free,http://www.openwifinyc.com/classic/a/Rice-NY-10016
+Grand Central Terminal at the Dinining Concourse,1321,87 E 42nd Street,New York,10017,"(40.752596897000046, -73.97732922799992)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Grand_Central_Terminal_at_the_Dining_Concourse_New_York_NY_19746.aspx
+Barnes & Noble,1323,31 10 Thomson Avenue,New York,11101,"(40.743995977000054, -73.93512413399992)",,Free,http://www.barnesandnobleinc.com
+Barnes & Noble,1324,40 Worth Street,New York,10013,"(40.71708113400007, -74.00699733999994)",,Free,http://www.barnesandnobleinc.com
+Barnes & Noble,1325,97 Warren Street,New York,10007,"(40.71532271700005, -74.0109359349999)",,Free,http://www.barnesandnobleinc.com
+Barnes & Noble,1328,150 East 86th Street,New York,10028,"(40.77903020900004, -73.95514636099995)",,Free,http://www.barnesandnobleinc.com
+Guy & Gallard - East 34 St,1332,120 East 34 Street,New York,10016,"(40.746308603000045, -73.9803301419999)",,Free,http://www.openwifinyc.com/classic/a/Guy-and-Gallard-East-34-St-NY-10016
+Guy & Gallard - Madison Ave,1333,28 East 34th Street,New York,10016,"(40.74763921200008, -73.98345717199993)",,Free,http://www.openwifinyc.com/classic/a/Guy-and-Gallard-Madison-Ave-NY-10016
+Guy & Gallard - 7th Ave,1334,469 7th Avenue,New York,10018,"(40.751936509000075, -73.98945157599991)",,Free,http://www.openwifinyc.com/classic/a/Guy-and-Gallard-7th-Ave-NY-10018
+Guy & Gallard - West 38 St,1335,245 West 38th Street,New York,10018,"(40.754356948000066, -73.99019472799995)",,Free,http://www.openwifinyc.com/classic/a/Guy-and-Gallard-West-38-St-NY-10018
+Guy & Gallard - 6th Ave,1336,1001 6th Avenue,New York,10018,"(40.752023387000065, -73.9865712209999)",,Free,http://www.openwifinyc.com/classic/a/Guy-and-Gallard-6th-Ave-NY-10018
+Chevy's Fresh Mex,1337,259 W 42nd Street,New York,10036,"(40.75731596300005, -73.9893649139999)",,Free,http://www.chevysny.com
+TechSpace,882,41 East 11th Street,New York,10003,"(40.73340613900007, -73.99282722099991)",212-331-1100,Free,http://www.techspace.com/
+TechSpace,883,95 Morton Street,New York,10014,"(40.731488726000066, -74.00856231799992)",212-331-1100,Free,http://www.techspace.com/
+The Cellar,884,325 East 14th Street,New York,10003,"(40.732135483000036, -73.9836867439999)",212-477-7747,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_The_Cellar_New_York_NY_17413.aspx
+Cafe Ari,887,3 Greenwich Ave,New York,10014,"(40.733734223000056, -73.99990689099991)",212-206-7776,Free,
+Dante's Gourmet Foods,888,166 William Street,New York,10038,"(40.71017379600005, -74.0055823209999)",212-233-2255,Free,http://www.yelp.com/biz/dantes-gourmet-foods-new-york
+Think Coffee,889,118 Mercer Street,New York,10012,"(40.728260581000086, -73.99499640099992)",212-228-6226,Free,http://www.thinkcoffeenyc.com/
+Applebee's,890,205 West 50th Street,New York,10019,"(40.761526116000084, -73.98347721899995)",212-262-2400,Free,http://www.nyu.edu/src/cityguide/cityinfo.html
+Eagle Communication,891,1751 2nd Avenue,New York,10128,"(40.78151204300008, -73.94959817799992)",516-852-8649,Free,http://www.ezgoal.com/hotspots/wireless/f.asp?fid=151674&wireless-internet
+Faces and Names,892,161 West 54th Street,New York,10019,"(40.76363784700004, -73.98099549699992)",212-586-9311,Free,http://www.ezgoal.com/hotspots/wireless/f.asp?fid=122309&wireless-internet
+Full City Coffee,893,409 Grand Street,New York,10002,"(40.71568210600009, -73.9873988889999)",212-260-2363,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Full_City_Coffee_New_York_NY_6396.aspx
+Schiller's Liquor Bar,894,131 Rivington St.,New York,10002,"(40.71937005600006, -73.98668784699993)",888-287-7913,Free,http://www.wififreespot.com/ny.html
+Cafe Andalucia,898,533 9th Avenue,New York,10018,"(40.75700709700004, -73.9939738949999)",212-505-0657,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Cafe_Andalucia_New_York_NY_10565.aspx
+Caffe Med,899,1268 2nd Avenue,New York,10021,"(40.765181247000044, -73.96062941399992)",212-744-5370,Free,http://usatoday.jiwire.com/wi-fi-wireless-hotspot-New-York-New-York-NY-US-Caffe-MED-1251392.htm
+Cyclo,900,203 1st Ave,New York,10003,"(40.73037830800007, -73.98361981699992)",212-673-3957,Free,www.cyclorestaurant.com
+Digby's,901,666 5th Avenue,New York,10019,"(40.760370005000084, -73.97670509799991)",212-977-7272,Free,www.digbyscafe.com
+Happy 16 Diner,902,16 Pell Street,New York,10013,"(40.71493977000006, -73.99783357299992)",212-962-6588,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Happy_16_Diner_New_York_NY_12949.aspx
+Hip Cup Caf̩,903,225 Park Row,New York,10038,"(40.71307299500006, -73.99878050199993)",212-227-8870,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Hip_Cup_Cafe_New_York_NY_13116.aspx
+Les Halles Park Avenue,905,411 Park Avenue South,New York,10016,"(40.74352668900008, -73.9834510789999)",212-679-4111,Free,http://www.leshalles.net
+Les Halles Downtown,906,15 John Street,New York,10038,"(40.710105138000074, -74.00881902099991)",212-285-8585,Free,http://www.leshalles.net
+Lit Lounge,907,93 2nd Avenue,New York,10003,"(40.72718905700009, -73.98906122699992)",212-777-7987,Free,http://www.litloungenyc.com
+Risa,908,47 E Houston St,New York,10012,"(40.72461373200008, -73.99477479099994)",212-625-1712,Free,http://www.nyu.edu/src/cityguide/cityinfo.html
+My Little Wi-Fi,912,144 East 7th St,New York,10009,"(40.72553775700004, -73.98281621199993)",,Free,
+NYC Public Library - Columbus Branch,953,742 10th Avenue,New York,10019,"(40.76493495300008, -73.99122081899992)",212-586-5098,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library for the Performing Arts,954,40 Lincoln Center Plaza,New York,10023,"(40.773507324000036, -73.98454684699993)",212-870-1630,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - 58th  St  Branch,1179,127 E 58 Street,New York,10022,"(40.76223213800006, -73.96932374599993)",212-759-7358,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - 96th  St  Branch,1180,112 E 96 Street,New York,10128,"(40.785957661000054, -73.95180829299994)",212-289-0908,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Epiphany  Branch,1181,228 E 23rd  Street,New York,10010,"(40.738078881000035, -73.98205276399995)",212-679-2645,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Bloomingdale Branch,1182,150 West 100th Street,New York,10025,"(40.795919370000036, -73.96784905599992)",212-222-8030,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Terence Cardinal Cooke-Cathedral Branch,1183,560 Lexington Avenue,New York,10022,"(40.756779220000055, -73.97247884199993)",212-752-3824,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Kips Bay Branch,1184,446 Third Avenue,New York,10016,"(40.74382852600007, -73.97993403099991)",212-683-2520,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Morningside Heights  Branch,1185,2900 Broadway,New York,10025,"(40.80609459500005, -73.96472825299992)",212-864-2530,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Muhlenberg  Branch,1186,209 West 23rd Street,New York,10011,"(40.744511738000085, -73.99595983599994)",212-924-1585,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Mulberry Branch,1187,10 Jersey Street,New York,10012,"(40.724066020000066, -73.99572222599994)",212-966-3424,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Riverside  Branch,1188,127 Amsterdam Avenue,New York,10023,"(40.77419594100007, -73.98422860399995)",212-870-1810,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library -Webster  Branch,1189,1465 York Avenue,New York,10075,"(40.770653748000086, -73.95135003199994)",212-288-5049,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Yorkville  Branch,1190,222 East 79th Street,New York,10075,"(40.77360549600007, -73.95640656299992)",212-744-5824,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library- Humanities and Social Sciences Library,1191,Fifth  Avenue and 42nd Street,New York,10016,"(40.75317061000004, -73.98216942199991)",,Free,http://www.nypl.org/research/chss/
+NYC Public Library - Andrew Heiskell Braille & Talking Book Library,1192,40 West 20th Street,New York,10011,"(40.74046668300008, -73.99335263699993)",212-206-5400,Free,http://talkingbooks.nypl.org/
+"NYC PublicLibrary - Science, Industry and Business Library",1194,188 Madison Avenue,New York,10016,"(40.74824402200005, -73.98297628499995)",,Free,http://www.nypl.org/research/sibl/
+Columbia University Library,1195,535 W 114th Street,New York,10027,"(40.80636933800008, -73.96318904999993)",,Free,http://www.columbia.edu/cu/lweb/
+St John's University Davis Library,1196,101 Murray Street,New York,10007,"(40.715434334000065, -74.01263533699995)",,Free,http://www.stjohns.edu/academics/libraries/campus/davis
+Community Access - East 2nd Street,1198,29 East 2nd Street,New York,10003,"(40.72493783500005, -73.99077521699991)",,Free,https://auth.nycwireless.net/hotspots_map.php
+Community Access - Gouverneur Court,1199,621 Water Street,New York,10002,"(40.71109376000004, -73.98359268299993)",,Free,https://auth.nycwireless.net/hotspots_map.php
+Aroma Espresso Bar,1202,145 Greene St,New York,10012,"(40.72619536000008, -73.9989597249999)",,Free,http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Aroma_Espresso_Bar_New_York_NY_6071.aspx
+Associated Supermarket,1203,225 W 57th Street,New York,10019,"(40.76647975000009, -73.98126402499992)",,Free,http://www.openwifispots.com/citylist_free_wifi_wireless_hotspot-New_York_NY.aspx
+New Work City,1205,200 Varick Street Room 578,New York,10014,"(40.72825798400004, -74.00479306499994)",,Free,http://www.nwcny.com/
+Queens Library - Ozone Park,986,92-24 Rockaway Boulevard,Ozone Park,11417,"(40.680862181000066, -73.8464887259999)",718-845-3127,Free,http://www.queenslibrary.org/
+All Friend Cafe,133,7805 164 Street,Queens,11366,"(40.72273296700007, -73.80429750799993)",,Free,
+Queens Library - Queens Village,990,94-11 217 Street,Queens Village,11428,"(40.71988588800008, -73.73904381999995)",718-776-6800,Free,http://www.queenslibrary.org/
+Paletra,1228,62-65 Saunders Strret,Rego Park,11374,"(40.730932016000054, -73.86657689399993)",,Free,http://v4.jiwire.com/wi-fi-wireless-hotspot-Rego-Park-New-York-NY-US-Paletra-1144899.htm
+Queens Library - Rego Park,992,91-41 63 Drive,Rego Park,11374,"(40.72731689400007, -73.8645028279999)",718-459-5140,Free,http://www.queenslibrary.org/
+Queens Library - Lefferts,978,103-34 Lefferts Boulevard,Richmond Hill,11419,"(40.686907622000035, -73.82482969799992)",718-843-5950,Free,http://www.queenslibrary.org/
+Queens Library - Richmond Hill,993,118-14 Hillside Avenue,Richmond Hill,11418,"(40.70076560000007, -73.83162541699994)",718-849-7150,Free,http://www.queenslibrary.org/
+Queens Library - Ridgewood,994,20-12 Madison Street,Ridgewood,11385,"(40.70517264400007, -73.90257237599991)",718-821-4770,Free,http://www.queenslibrary.org/
+Queens Library - Peninsula  (ALC),987,92-25 Rockaway Beach Boulevard,Rockaway Beach,11693,"(40.58583974000004, -73.81606161999991)",718-634-1110,Free,http://www.queenslibrary.org/
+Queens Library - Seaside,997,116-15 Rockaway Beach Boulevard,Rockaway Park,11694,"(40.579391204000046, -73.8377356009999)",718-634-1876,Free,http://www.queenslibrary.org/
+Queens Library - Rosedale,996,144-20 243 Street,Rosedale,11422,"(40.65996395600007, -73.73991101299993)",718-528-8490,Free,http://www.queenslibrary.org/
+Queens Library - South Hollis,998,204-01 Hollis Avenue,South Hollis,11412,"(40.70701088900006, -73.75379667199991)",718-465-6779,Free,http://www.queenslibrary.org/
+Queens Library - South Ozone Park,1000,128-16 Rockaway Boulevard,South Ozone Park,11420,"(40.67477726100009, -73.80926181599995)",718-529-1660,Free,http://www.queenslibrary.org/
+Queens Library - St. Albans,1001,191-05 Linden Boulevard,St. Albans,11412,"(40.69252838700004, -73.76010878799991)",718-528-8196,Free,http://www.queenslibrary.org/
+St. George-Staten Island Ferry Terminal,150,1 Bay St,Staten Island,10301,"(40.64403284000008, -74.07253699499995)",718 876-8441,Free,http://www.nyc.gov/html/dot/html/ferrybus/statfery.shtml
+St. John's University Loretto Memorial Library,153,300 Howard Avenue,Staten Island,10301,"(40.62213110600004, -74.08961305399993)",718-390-4457,Free,http://www.stjohns.edu/academics/libraries/services/mobile_computing
+Barnes & Noble,1042,2245 Richmond Avenue,Staten Island,10314,"(40.59224737200009, -74.16253775899992)",718-982-6983,Free,http://www.barnesandnobleinc.com
+NYC Public Library - Great Kills,144,56 Giffords Lane,Staten Island,10308,"(40.55242279100008, -74.15111131399993)",718-984-6670,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - New Dorp Branch,145,309 New Dorp Lane,Staten Island,10306,"(40.57193382300005, -74.11195644499992)",718-351-2977,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Port Richmond,146,75 Bennett Street,Staten Island,10302,"(40.63758562500004, -74.13110527799995)",718-442-0158,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - West New Brighton Branch,147,976 Castleton Avenue,Staten Island,10310,"(40.634509662000085, -74.11482125799995)",718-442-1416,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library - Dongan Hills Branch,148,1617 Richmond Road,Staten Island,10304,"(40.59039168400005, -74.10113897799994)",718-351-1444,Free,http://www.nypl.org/branch/services/wifi.html
+NYC Public Library -Todt Hill-Westerleigh Branch,149,2550 Victory Boulevard,Staten Island,10314,"(40.60957854600008, -74.14850349199992)",718-494-1642,Free,http://www.nypl.org/branch/services/wifi.html
+Apple Store,1213,2655 Richmond Avenue,Staten Island,10314,"(40.581199017000074, -74.16618372499994)",,Free,http://www.apple.com/retail/statenisland/
+Coffe & Tea Market  Caf̩,1259,422 Forest Avenue,Staten Island,10301,"(40.63067278400007, -74.10336452799993)",,Free,http://www.wififreespot.com/ny.html
+Alor Caf̩,1263,2110 Richmond Road,Staten Island,10306,"(40.581358779000084, -74.11143288499994)",,Free,http://www.wififreespot.com/ny.html
+Chevy's Fresh Mex,1338,2690 Hylan Blvd,Staten Island,10306,"(40.566499014000044, -74.11330231999995)",,Free,http://www.chevysny.com
+Panera Bread,1208,280 Marsh Avenue,Staten Island,10314,"(40.57714882000005, -74.16406542599992)",,Free,http://www.panerabread.com/cafes/results.php?NAV=2&state=NY&zip=&city=&address=&radius=10&action=searchwifi
+Queens Library - Whitestone,1003,151-10 14 Road,Whitestone,11357,"(40.78853177800005, -73.81071655699992)",718-767-8010,Free,http://www.queenslibrary.org/
+Queens Library - Woodhaven,1005,85-41 Forest Parkway,Woodhaven,11421,"(40.69454691200008, -73.86144645999991)",718-849-1010,Free,http://www.queenslibrary.org/
+Queens Library - Woodside,132,54-22 Skillman Avenue,Woodside,11377,"(40.74534349700008, -73.90979536299994)",718-429-4700,Free,http://www.queenslibrary.org/

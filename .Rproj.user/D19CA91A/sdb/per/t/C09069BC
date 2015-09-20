@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1442664632107.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C09069BC",
+    "lastKnownWriteTime" : 7011605692497750387,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "ah16ib391x",
+        "caption" : "parking",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=parking&cache_key=ah16ib391x",
+        "displayedObservations" : "1911",
+        "environment" : "",
+        "object" : "parking",
+        "totalObservations" : "1911",
+        "variables" : "17"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

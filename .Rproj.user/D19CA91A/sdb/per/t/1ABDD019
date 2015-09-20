@@ -1,0 +1,17 @@
+{
+    "contents" : "for (i in 1:nrow(air_merged)){\n  distance <- 999\n  lat_air <- air_merged[i,\"Latitude\"]\n  long_air <- air_merged[i,\"Longitude\"]\n\n  for(j in 1:nrow(wifi)){\n    dist <- earth.dist(long_air,lat_air,wifi[j,\"Long_\"],wifi[j,\"Lat\"])\n    if(dist < distance){\n      distance <- dist\n    }\n  }\n  print(i)\n  flush.console()\n  air_merged[i,\"distWifi\"] <- distance\n}",
+    "created" : 1442664744366.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1980114618",
+    "id" : "1ABDD019",
+    "lastKnownWriteTime" : 1442781484,
+    "path" : "~/projects/airbnb_viz/scripts/addDistanceToWifi.R",
+    "project_path" : "scripts/addDistanceToWifi.R",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
